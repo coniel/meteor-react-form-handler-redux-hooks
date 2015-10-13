@@ -1,7 +1,8 @@
 Package.describe({
   name: "coniel:react-form-handler-reduct-hooks",
   summary: "Reduct reducer/actions for conielo:react-form-handler" ,
-  version: "0.1.0"
+  git: 'https://github.com/coniel/meteor-react-form-handler-redux-hooks.git',
+  version: "0.1.1"
 });
 
 Package.onUse(function(api) {
